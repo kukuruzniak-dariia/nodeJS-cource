@@ -1,0 +1,11 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  	"task1": "node index.js"
+  },
+  "author": "Dariia Kukuruzniak",
+  "license": "ISC"
+}
